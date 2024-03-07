@@ -1,2 +1,3 @@
-# odin-project
-Odin Project Education Portfolio
+# odin_project
+
+"Hello Odin!"
